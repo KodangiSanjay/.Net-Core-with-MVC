@@ -12955,11 +12955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanjay.ESSBBSR\\Documents\\Visual Studio 2017\\Projects\\MVCWebDemo\\MVCWebDemo\\MVCWebDemo.csproj",
+      "projectUniqueName": "E:\\GitHubProjects\\.Net-Core-with-MVC\\MVCWebDemo\\MVCWebDemo.csproj",
       "projectName": "MVCWebDemo",
-      "projectPath": "C:\\Users\\sanjay.ESSBBSR\\Documents\\Visual Studio 2017\\Projects\\MVCWebDemo\\MVCWebDemo\\MVCWebDemo.csproj",
+      "projectPath": "E:\\GitHubProjects\\.Net-Core-with-MVC\\MVCWebDemo\\MVCWebDemo.csproj",
       "packagesPath": "C:\\Users\\sanjay.ESSBBSR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanjay.ESSBBSR\\Documents\\Visual Studio 2017\\Projects\\MVCWebDemo\\MVCWebDemo\\obj\\",
+      "outputPath": "E:\\GitHubProjects\\.Net-Core-with-MVC\\MVCWebDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
